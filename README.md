@@ -84,3 +84,20 @@ Each program is a standalone C file. To compile and run any of these programs, f
    ```bash
    git clone https://github.com/yourusername/classic-c-programs.git
    cd classic-c-programs
+
+2. Compile the program (replace program_name.c with the actual file name):
+   ```bash
+   gcc program_name.c -o program_name
+
+3. Run the program:
+
+   ```bash
+   ./program_name
+   
+Contribution
+Feel free to contribute to this repository by adding more classic C programs or improving the existing ones.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
